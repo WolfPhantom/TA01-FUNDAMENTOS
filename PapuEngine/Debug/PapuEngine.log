@@ -1,0 +1,45 @@
+﻿  Agent.cpp
+  Camera2D.cpp
+  Error.cpp
+  GLS_Program.cpp
+  Human.cpp
+  ImageLoader.cpp
+D:\Tarea01\TA01\PapuEngine\Human.cpp(7,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Tarea01\TA01\PapuEngine\ImageLoader.cpp(36,19): warning C4244:  '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
+  InputManager.cpp
+  IOManager.cpp
+D:\Tarea01\TA01\PapuEngine\ImageLoader.cpp(37,18): warning C4244:  '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
+D:\Tarea01\TA01\PapuEngine\IOManager.cpp(15,15): warning C4244:  'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+  Level.cpp
+D:\Tarea01\TA01\PapuEngine\IOManager.cpp(18,26): warning C4244:  '-=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+D:\Tarea01\TA01\PapuEngine\Level.cpp(57,25): warning C4244:  '=': conversión de 'size_t' a 'T'; posible pérdida de datos
+D:\Tarea01\TA01\PapuEngine\Level.cpp(57,25): warning C4244:         with
+D:\Tarea01\TA01\PapuEngine\Level.cpp(57,25): warning C4244:         [
+D:\Tarea01\TA01\PapuEngine\Level.cpp(57,25): warning C4244:             T=float
+D:\Tarea01\TA01\PapuEngine\Level.cpp(57,25): warning C4244:         ]
+  main.cpp
+  MainGame.cpp
+D:\Tarea01\TA01\PapuEngine\Level.cpp(58,26): warning C4244:  '=': conversión de 'size_t' a 'T'; posible pérdida de datos
+D:\Tarea01\TA01\PapuEngine\Level.cpp(58,26): warning C4244:         with
+D:\Tarea01\TA01\PapuEngine\Level.cpp(58,26): warning C4244:         [
+D:\Tarea01\TA01\PapuEngine\Level.cpp(58,26): warning C4244:             T=float
+D:\Tarea01\TA01\PapuEngine\Level.cpp(58,26): warning C4244:         ]
+D:\Tarea01\TA01\PapuEngine\MainGame.cpp(66,20): warning C4018:  '<': no coinciden signed/unsigned
+D:\Tarea01\TA01\PapuEngine\MainGame.cpp(70,20): warning C4018:  '<': no coinciden signed/unsigned
+D:\Tarea01\TA01\PapuEngine\MainGame.cpp(84,32): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Tarea01\TA01\PapuEngine\MainGame.cpp(99,61): warning C4244:  'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+  PapuEngine.cpp
+  picoPNG.cpp
+  Player.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBacth.cpp
+D:\Tarea01\TA01\PapuEngine\MainGame.cpp(99,46): warning C4244:  'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+D:\Tarea01\TA01\PapuEngine\SpriteBacth.cpp(15,20): warning C4018:  '<': no coinciden signed/unsigned
+D:\Tarea01\TA01\PapuEngine\SpriteBacth.cpp(44,22): warning C4018:  '<': no coinciden signed/unsigned
+  TextureCache.cpp
+  Window.cpp
+  Zombie.cpp
+  Generando código...
+D:\Tarea01\TA01\PapuEngine\SpriteBacth.cpp(72,20): warning C4018:  '<': no coinciden signed/unsigned
+  PapuEngine.vcxproj -> D:\Tarea01\TA01\Debug\PapuEngine.exe
